@@ -17,15 +17,15 @@
 ---
 
 # 🧑‍💻 **About Me**
-I’m an IT student who enjoys creating meaningful digital experiences.  
-My core focus is on **building functional and clean applications** through modern frameworks and good coding practices.
+I’m an IT student passionate about building functional and clean digital experiences.  
+I enjoy transforming ideas into user-friendly applications using modern tools and polished UI/UX design.
 
 ✨ *What describes me best:*  
-- 🧠 Loves learning and exploring new tech  
-- 🛠️ Writes readable and maintainable code  
-- 🎨 Values clean UI and intuitive UX  
-- 🔍 Constantly improving and building useful projects  
-- 📘 Enjoys documenting workflows and creating organized systems  
+- 🧠 Enjoys learning and exploring new technologies  
+- 🛠️ Writes clean, readable, and maintainable code  
+- 🎨 Prioritizes intuitive and clean interface design  
+- 🔍 Focused on consistency and improvement  
+- 🚀 Loves building projects with real-life impact  
 
 ---
 
@@ -59,30 +59,30 @@ My core focus is on **building functional and clean applications** through moder
 
 # 🌐 **Featured Projects**
 
-### 🔹 **Fruit Size Classification (Flutter)**  
-AI-assisted image classification for identifying fruit sizes.  
-🔗 *Add your link here*
+### 🔹 **Paglakad sa Cabadbaran**  
+A guided walking tour & informational app showcasing landmarks, culture, and locations in Cabadbaran City.  
+🔗 *Add link here*
 
 ---
 
-### 🔹 **Weight UI Components (Flutter)**  
-Reusable UI components for faster layout development.  
-🔗 *Add your link here*
+### 🔹 **Southeast Asia Flag Detector**  
+A machine learning image detector that identifies flags of Southeast Asian countries using mobile camera input.  
+🔗 *Add link here*
 
 ---
 
-### 🔹 **IT222 / IT223 Activities**  
-Selected coding exercises & lab submissions.  
+### 🔹 **CSUCC Gym Reservation System**  
+A reservation platform for booking gym schedules, managing users, and organizing facility usage efficiently.  
 🔗 *Add link here*
 
 ---
 
 # 📘 **What I’m Learning Now**
 - ⚙️ Advanced Flutter UI  
-- 🔐 Firebase Authentication  
-- 🌐 API Integration  
-- 🧩 UI/UX Prototyping  
-- 🎨 Design systems & layout hierarchy  
+- 🔐 Firebase Authentication & Firestore  
+- 🌐 REST API Integration  
+- 🧩 UI/UX Prototyping (Figma)  
+- 🎨 Layout hierarchy & modern design patterns  
 
 ---
 
@@ -106,10 +106,11 @@ Selected coding exercises & lab submissions.
 
 # 📫 **Get in Touch**
 📧 **Email:** your-email@gmail.com  
-🐦 **Twitter:** @yourhandle  
-💼 **LinkedIn:** *Add your link here*  
+📘 **Facebook:** *Your Facebook Link Here*  
 
 ---
 
 # ✨ **Fun Fact**
 I enjoy creating UI that’s **simple, clean, smooth, and user-friendly** — the kind of design that feels good to use.
+
+---
