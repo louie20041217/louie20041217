@@ -1,0 +1,44 @@
+name: sanrojo_flutter
+description: "A new Flutter project."
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.2 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  image_picker: ^1.0.4
+  tflite_v2: ^1.0.0
+  fl_chart: ^0.66.0
+  cloud_firestore: ^4.13.6
+  firebase_core: ^2.24.2
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/model_unquant.tflite
+    - assets/labels.txt
+    - assets/flag/bg.jpg
+    - assets/flag/philippines.webp
+    - assets/flag/thailand.jpg
+    - assets/flag/vietnam.webp
+    - assets/flag/singapore.jpg
+    - assets/flag/malaysia.jpg
+    - assets/flag/myanmar.webp
+    - assets/flag/laos.jpg
+    - assets/flag/indonesia.jpg
+    - assets/flag/cambodia.jpeg
+    - assets/flag/brunie.png
+    
