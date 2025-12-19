@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "55816319070",
+    "project_id": "sanrojo-southeastflag-detector",
+    "storage_bucket": "sanrojo-southeastflag-detector.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55816319070:android:8703360033b7e7a1d784cf",
+        "android_client_info": {
+          "package_name": "com.example.bersabal_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk90JA1OShNrl24R-iRtZGxAlJVpDChS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55816319070:android:a1a8c2f29cbd4574d784cf",
+        "android_client_info": {
+          "package_name": "com.example.sanrojo_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk90JA1OShNrl24R-iRtZGxAlJVpDChS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
